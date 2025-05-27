@@ -1,0 +1,2 @@
+# semanticspotter
+Semantic Spotter Project
